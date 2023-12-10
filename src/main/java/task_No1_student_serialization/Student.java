@@ -55,5 +55,10 @@ public class Student implements Serializable {
         this.age = age;
         this.GPA = GPA;
     }
+
+    public Student() {
+    }
+
+    ;
     //endregion
 }
